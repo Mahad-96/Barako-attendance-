@@ -1,0 +1,6 @@
+{
+  "name": "Barako Transportation & Logistics ERP",
+  "description": "Comprehensive enterprise ERP for Barako Transportation & Logistics featuring booking, cargo, real-time passenger attendance, driver portals, and Gemini-powered manifest ingestion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
